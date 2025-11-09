@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Riya Rakshit</h1>
-<h3 align="center">Systems Engineer✨</h3>
+<h3 align="center">Senior Software Engineer✨</h3>
 <br/>
 
-- 🔭 I’m currently working with **D.E.Shaw India Pvt. Ltd.**, Hyderabad, India.
+- 🔭 I’m currently working with **Accenture**, Mumbai, India. Previously worked with **D.E. Shaw India Pvt. Ltd.**, Hyderabad, India.
 
-- 🌱 I’m currently learning **ReactJS and SpringBoot.**
+- 🌱 I’m currently working in **ReactJS, SpringBoot, Apache Camel, Azure Kubernetes Services, SQL, and Crew AI.**
 
-- 👯 I’m looking to collaborate on **development projects.**
+- 👯 I’m looking to collaborate on **development projects preferably with Crew AI.**
 
 - 👨‍💻 All of my projects are available at: [https://rakshitriya.github.io/](https://rakshitriya.github.io/)
 
